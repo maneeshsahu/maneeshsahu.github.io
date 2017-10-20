@@ -1,3 +1,28 @@
-name: Flex
-markdown: redcarpet
-pygments: true
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: SAHU HAUS
+email: maneesh@sahu.haus
+description: > # this means to ignore newlines until "baseurl:"
+  Blog of Sahu.Haus
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.sahu.haus" # the base hostname & protocol for your site
+twitter_username: maneeshsahu
+github_username:  maneeshsahu
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+  - jekyll-compose
+
+google_analytics: UA-108404063-1
+
+paginate: 6
+paginate_path: "blog/page:num"
