@@ -12,7 +12,7 @@
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | escape }}{% else %}{''}{% endif %}" />
-  <meta property="og:image" content="{% if page.images %}{{site.url}}/{{page.images[0]}}{% else %}{''}{% endif %}{% endif %}" />
+  <meta property="og:image" content="{% if page.images %}{{site.url}}/{{page.images[0]}}{% else %}{''}{% endif %}" />
 
   <link rel="stylesheet" href="{{ "/css/app.css" | prepend: site.baseurl }}">
   <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:400,700,600,300" media="screen" rel="stylesheet" type="text/css" />
