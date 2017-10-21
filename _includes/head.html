@@ -4,15 +4,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="msvalidate.01" content="7D188710DDE65ED5551FBB62B4D87905" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@maneeshsahu" />
-  <meta name="twitter:creator" content="@maneeshsahu" />
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+  <meta name="description"        content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="msvalidate.01"      content="7D188710DDE65ED5551FBB62B4D87905" />
+
+  <meta name="twitter:card"       content="summary" />
+  <meta name="twitter:site"       content="@maneeshsahu" />
+  <meta name="twitter:creator"    content="@maneeshsahu" />
+
+  <meta property="og:url"         content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | escape }}{% else %}{''}{% endif %}" />
-  <meta property="og:image" content="{% if page.images %}{{site.url}}/{{page.images[0]}}{% else %}{''}{% endif %}" />
+  <meta property="og:image"       content="{% if page.images %}{{site.url}}/{{page.images[0]}}{% else %}{''}{% endif %}" />
 
   <link rel="stylesheet" href="{{ "/css/app.css" | prepend: site.baseurl }}">
   <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:400,700,600,300" media="screen" rel="stylesheet" type="text/css" />
