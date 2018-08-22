@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Intermittent Fasting
-cover: intermittent_fasting.png
+banner_image: intermittent_fasting.png
 date:   2017-04-06 11:00:00
-categories: dataisbeautiful quantifiedself
+tags: [posts, dataIsBeautiful, quantifiedself]
 images:
 - images/intermittent_fasting.png
 excerpt:
@@ -16,6 +16,6 @@ Then a year later, I had blood tests. The lipid panel showed elevated bad choles
 
 I followed his instructions meticulously especially regarding intermittent fasting. Although I wasn't able to exercise much at all and ate more carbs due to my snacking (only after lunch and before dinner). After a couple of months, I took the blood tests again. This time the results were fantastic. Triglycerides had fallen to levels from 15 years ago. In two months, I lost 15 pounds and about an inch of waist size.
 
-I have charted the lipid panel numbers from 2002 - 2017 in the Tableau Workbook below.
+<!-- I have charted the lipid panel numbers from 2002 - 2017 in the Tableau Workbook below.
 
-{% include tableau_lipid.html %}
+{% include tableau_lipid.html %} -->

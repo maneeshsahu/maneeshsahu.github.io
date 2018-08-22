@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sahu.Haus</title>
+        <description>A longform of my tweets</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 21 Aug 2018 22:27:32 -0700</pubDate>
+        <lastBuildDate>Tue, 21 Aug 2018 22:27:32 -0700</lastBuildDate>
+        <generator>Jekyll v3.6.0</generator>
+        
+            <item>
+                <title>SFUSD 2018 Lottery - Choices and Assignments</title>
+                <description>&lt;p&gt;KQED has an interesting post about strategies for winning the SFUSD lottery - &lt;a href=&quot;https://ww2.kqed.org/news/2018/01/10/s-f-s-kindergarten-lottery-do-parents-tricks-work/&quot;&gt;S.F.’s Kindergarten Lottery: Do Parents’ Tricks Work?&lt;/a&gt;. It has a visualization that lists the enrollments by school.&lt;/p&gt;
+
+&lt;p&gt;What is missing is the impact of a school selection in the different choices and the potential assignment. The visualization below has the breakdown for the first 20 choices in an application.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://public.tableau.com/views/SFUSDChoicesvsAssignments/ChoicesperRoundsperSchool?%3F:showVizHome=n&amp;amp;:embed=y&amp;amp;:display_count=no&amp;amp;:toolbar=no&quot; width=&quot;900&quot; height=&quot;900&quot;&gt;&lt;/iframe&gt;
+
+</description>
+                <pubDate>Wed, 24 Jan 2018 12:00:00 -0800</pubDate>
+                <link>http://localhost:4000/2018/01/24/sfusd-choices-assignments/</link>
+                <guid isPermaLink="true">http://localhost:4000/2018/01/24/sfusd-choices-assignments/</guid>
+                
+                <category>posts</category>
+                
+                <category>dataIsBeautiful</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Visualizing the SFUSD Elementary School Lottery</title>
+                <description>&lt;p&gt;Every year, SF Parents of kindergarten-aged children participate in what is commonly referred to as the SFUSD School Lottery. Roughly 5000 children vying for 4000 seats spread across 125 schools. To complicate things a bit, some schools are more popular than others. Clarendon Elementary School had nearly 1600 applicants for 44 seats. SFUSD also has tie-breaker rules, so kids dont necessarily get first dibs at local attendance area schools.&lt;/p&gt;
+
+&lt;p&gt;I created this visualization in Tableau using data from SFUSD and  crowd-sourced data created by members of a Facebook group called the ‘SFUSD 2018/19 Support Group’.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://public.tableau.com/views/SFUSDElementarySchoolsPopularity/Sheet1?:showVizHome=n&amp;amp;:embed=y&amp;amp;:display_count=no&amp;amp;:toolbar=no&quot; width=&quot;900&quot; height=&quot;900&quot;&gt;&lt;/iframe&gt;
+
+</description>
+                <pubDate>Thu, 19 Oct 2017 04:00:00 -0700</pubDate>
+                <link>http://localhost:4000/2017/10/19/visualizing-sfusd-school-lottery/</link>
+                <guid isPermaLink="true">http://localhost:4000/2017/10/19/visualizing-sfusd-school-lottery/</guid>
+                
+                <category>posts</category>
+                
+                <category>dataIsBeautiful</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Intermittent Fasting</title>
+                <description>&lt;p&gt;I had read about the benefits of fasting several years back. I attempted fasting a day a week to see if I could benefit as well. I had no specific goal in mind but a few months after into this routine I ultimately gave up. I was getting &lt;a href=&quot;https://www.theguardian.com/science/shortcuts/2014/apr/15/hangry-stupid-made-up-word-angry-hungry&quot;&gt;hangry&lt;/a&gt;, dizzy at times and seeing no obvious value.&lt;/p&gt;
+
+&lt;p&gt;Then a year later, I had blood tests. The lipid panel showed elevated bad cholestrol and triglycerides. I met Dr Ronesh Sinha who specializes in South Asian health at the Palo Alto Medical Foundation. After analyzing my diet and daily regimen, he recommended I do intermittent fasting. No food for a period of 16 hours in a day. Dinner at 8pm, followed by lunch at noon. No snacking in between. He had other recommendations like cutting excessive carbohydrates, eating food with more fiber+proteins and gaining more muscle mass. See: &lt;a href=&quot;http://culturalhealthsolutions.com/carb-trafficking-body-fat-storage-and-insulin-resistance/&quot;&gt;Dr Sinha’s Blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I followed his instructions meticulously especially regarding intermittent fasting. Although I wasn’t able to exercise much at all and ate more carbs due to my snacking (only after lunch and before dinner). After a couple of months, I took the blood tests again. This time the results were fantastic. Triglycerides had fallen to levels from 15 years ago. In two months, I lost 15 pounds and about an inch of waist size.&lt;/p&gt;
+
+&lt;!-- I have charted the lipid panel numbers from 2002 - 2017 in the Tableau Workbook below.
+
+&lt;iframe src=&quot;https://public.tableau.com/views/IntermittentFasting/Sheet1?:showVizHome=n&amp;:embed=y&amp;:display_count=no&amp;:toolbar=no&quot;
+ width=&quot;1000&quot; height=&quot;900&quot;&gt;&lt;/iframe&gt;
+ --&gt;
+</description>
+                <pubDate>Thu, 06 Apr 2017 04:00:00 -0700</pubDate>
+                <link>http://localhost:4000/2017/04/06/intermittent-fasting/</link>
+                <guid isPermaLink="true">http://localhost:4000/2017/04/06/intermittent-fasting/</guid>
+                
+                <category>posts</category>
+                
+                <category>dataIsBeautiful</category>
+                
+                <category>quantifiedself</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Resurfacing in the Longform</title>
+                <description>&lt;p&gt;It has been 5 years since I switched from blogging to micro-blogging. Turns out, Microblogging has me hardly writing anymore. On Twitter, I am frequently re-tweeting and favoriting; while  on Facebook, I am mostly posting pictures. When I look at my old blog posts, I am reminded of a time when I wrote like no one was reading…and if someone read at all, it was because someone actually took the initiative to read my posts by visiting my blog. Just like the slow cooking movement, I forsee a return back to the longform in writing. My blog hopes to rekindle some of the old magic.&lt;/p&gt;
+</description>
+                <pubDate>Fri, 08 Jan 2016 03:00:00 -0800</pubDate>
+                <link>http://localhost:4000/2016/01/08/resurfacing-long-form/</link>
+                <guid isPermaLink="true">http://localhost:4000/2016/01/08/resurfacing-long-form/</guid>
+                
+                <category>posts</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>

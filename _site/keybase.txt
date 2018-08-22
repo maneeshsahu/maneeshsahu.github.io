@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/maneeshsahu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.sahu.haus
+  * I am maneeshsahu (https://keybase.io/maneeshsahu) on keybase.
+  * I have a public key ASCXSUZabotFLRGBlrPIhThcBfzrf6WF31gMmw7YU2PIBgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209749465a6e8b452d118196b3c885385c05fceb7fa585df580c9b0ed85363c8060a",
+      "host": "keybase.io",
+      "kid": "01209749465a6e8b452d118196b3c885385c05fceb7fa585df580c9b0ed85363c8060a",
+      "uid": "8a5359be56947cbb4cdfa7d62e237119",
+      "username": "maneeshsahu"
+    },
+    "merkle_root": {
+      "ctime": 1534882738,
+      "hash": "955008389fb1278e073468330e7bf70bd17ca0c1d0403356d54e2866d92857260d26d7e50f1d5503e9e41cc1f4d894dddf2a84faf223c9230868ee7dbba84311",
+      "hash_meta": "44fccfd78ee6fa7c4c47b099c50217d6ff5f520796d1d5f93522edbbea9a66a2",
+      "seqno": 3495280
+    },
+    "service": {
+      "entropy": "PjZRrGDPcXAvOl6JfXl9uyIw",
+      "hostname": "blog.sahu.haus",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534882745,
+  "expire_in": 504576000,
+  "prev": "c2dccbb635250c972dd71f4e9a51ab1d79dcc5d286f6fd77b4838bf7ee7f2688",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl0lGWm6LRS0RgZazyIU4XAX863+lhd9YDJsO2FNjyAYKp3BheWxvYWTESpcCCcQgwtzLtjUlDJct1x9OmlGrHXncxdKG9v13tIOL9+5/JojEIK3YdfoLHqZIhYStqFFsU74EBPULe75G9xo6EBknQN1bAgHCo3NpZ8RAkLEOCtcHv+2AX4xxSFSZduyCpmNlI3m0mv4TsVWRdBGh4/AUgHUwF5dWFyok+6KkIgEo+y3/8GZyP8PA3HU1A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHFUr3KYgfPt06dVTqsAXySWmJUJeH1CZJ0GS36kQWeMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/maneeshsahu
+
+==================================================================

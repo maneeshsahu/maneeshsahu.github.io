@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Resurfacing in the Longform
-cover: cover.jpg
+banner_image: cover.jpg
 images:
 - images/cover.jpg
 date:   2016-01-08 11:00:00
-categories: posts
+tags: [posts]
 excerpt:
   My Hello World redux.
 ---

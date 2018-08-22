@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SFUSD 2018 Lottery - Choices and Assignments
-cover: sfusd2.png
+title: "SFUSD 2018 Lottery - Choices and Assignments"
+banner_image: sfusd2.png
 date:   2018-01-24 20:00:00
-categories: posts dataIsBeautiful
+tags: [posts, dataIsBeautiful]
 images:
 - images/sfusd2.png
 excerpt:
