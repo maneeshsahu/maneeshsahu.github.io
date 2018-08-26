@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "Sahu.Haus"
+title: "The Sahu Haus"
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: "A longform of my tweets"
@@ -37,14 +37,14 @@ disqus:
 
 # Author information - author info at the bottom of the post
 author_name: "Maneesh Sahu"
-author_bio: "Maker, Explorer"
+author_bio: "Tinker, Maker, Explorer"
 author_url:  "https://blog.sahu.haus"
 author_location: "San Francisco, CA"
-author_image: /images/maneeshsahu.png
+author_image: /images/MakerFaire.png
 
 # Sidebar Add banner
 banner_url: "https://blog.sahu.haus"
-banner_image: images/banner.jpg
+banner_image: images/maneeshsahu.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 #mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
